@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hyginigromatici00goog_0006.png"; bbox 0 0 2646 4136; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 95 587 1309 830">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 95 564 1309 830">
+     <span class='ocr_line' id='line_1_1' title="bbox 95 587 1309 830; baseline -0.003 -77"><span class='ocrx_word' id='word_1_1' title='bbox 95 616 463 753; x_wconf 76' lang='lat' dir='ltr'>HYGINI</span> <span class='ocrx_word' id='word_1_2' title='bbox 513 614 1069 753; x_wconf 74' lang='lat' dir='ltr'><strong>GROMATIOI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1258 587 1309 830; x_wconf 22' lang='lat' dir='ltr'>fh</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 217 1240 952 1330">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 217 1220 952 1330">
+     <span class='ocr_line' id='line_1_2' title="bbox 217 1240 952 1330; baseline -0.003 -1"><span class='ocrx_word' id='word_1_4' title='bbox 217 1240 601 1330; x_wconf 73' lang='lat' dir='ltr'>MUNmomssus</span> <span class='ocrx_word' id='word_1_5' title='bbox 635 1240 952 1330; x_wconf 68' lang='lat' dir='ltr'>OASTRORUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 325 1894 842 1966">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 325 1894 842 1966">
+     <span class='ocr_line' id='line_1_3' title="bbox 325 1894 842 1966; baseline 0 -3"><span class='ocrx_word' id='word_1_6' title='bbox 325 1895 586 1964; x_wconf 62' lang='lat' dir='ltr'>&amp;mmm</span> <span class='ocrx_word' id='word_1_7' title='bbox 614 1894 842 1966; x_wconf 72' lang='lat' dir='ltr'><strong>GEMOLL.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1328 4136">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1328 4136">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1328 4136; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1328 4136; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
